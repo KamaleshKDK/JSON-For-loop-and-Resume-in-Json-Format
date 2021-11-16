@@ -1,0 +1,42 @@
+﻿{
+  "basics": {
+    "name": "L.kamalesh kanna",
+    "label": "",
+    "picture": "",
+    "email": "abc@gmail.com",
+    "phone": " +91 9876543210.",
+    "degree": "B.Com CA",
+    "website": "Your website URL",
+ },
+
+  "education": [
+    {
+      "institution": "Vysya arts and science college",
+      "area": "salem",
+      "StartYear": "2018",
+      "EndYear": "2021",
+      "courses": [ "Full stack developer at GUVI institute" ]
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "basic",
+      "keywords": [ "Javascrip","HTML","CSS" ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tammil,English",
+      "fluency": "Good"
+    }
+  ],
+  "interests": [
+    {
+      "name": " Cinema",
+      "keywords": [
+        'Acting']
+    }
+  ]
+}
